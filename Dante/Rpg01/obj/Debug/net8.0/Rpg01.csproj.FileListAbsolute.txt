@@ -1,0 +1,14 @@
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/bin/Debug/net8.0/Rpg01
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/bin/Debug/net8.0/Rpg01.deps.json
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/bin/Debug/net8.0/Rpg01.runtimeconfig.json
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/bin/Debug/net8.0/Rpg01.dll
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/bin/Debug/net8.0/Rpg01.pdb
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.GeneratedMSBuildEditorConfig.editorconfig
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.AssemblyInfoInputs.cache
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.AssemblyInfo.cs
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.csproj.CoreCompileInputs.cache
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.dll
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/refint/Rpg01.dll
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.pdb
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/Rpg01.genruntimeconfig.cache
+/home/atenea/Documentos/Papilo_charontis/Dante/Rpg01/obj/Debug/net8.0/ref/Rpg01.dll
